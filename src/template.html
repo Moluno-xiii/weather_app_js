@@ -6,6 +6,21 @@
     <title>Weather application</title>
   </head>
   <body>
-    <div id="content"></div>
+    <h3>Weather Application</h3>
+    <div id="content">
+      <form id="locationForm" action="">
+        <div class="formItem">
+          <label for="">Location</label>
+          <input
+            name="location"
+            type="text"
+            title="Input your location"
+            required
+          />
+        </div>
+        <button id="submitButton" type="submit">Submit</button>
+      </form>
+    </div>
+    <p id="data"></p>
   </body>
 </html>
