@@ -1,0 +1,4 @@
+weather_api_key = TQNETP4KRRNYZ84NATNXZ8GNR
+giphy_api_key = 6mPqb33KVsxVDtaxg7mQyViVxEYjfNkQ
+
+if (!response.ok) trhow error.

@@ -1,0 +1,26 @@
+body {
+  background-color: gray;
+  color: black;
+  font-family: "Courier New", Courier, monospace;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  margin: 0px;
+  padding: 0px;
+}
+ul {
+  margin: 0px;
+  padding: 0px;
+  padding: 10px 15px;
+}
+
+p {
+  margin: 0px;
+  padding: 0px;
+  font-size: larger;
+  padding-bottom: 4px;
+}
